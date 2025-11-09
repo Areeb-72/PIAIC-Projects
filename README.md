@@ -1,1 +1,1 @@
-![Thumbnail](images/thumbnail.png)
+![Thumbnail](images/thumbnail.jpeg)
