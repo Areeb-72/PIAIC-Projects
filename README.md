@@ -1,0 +1,1 @@
+![Thumbnail](images/thumbnail.png)
